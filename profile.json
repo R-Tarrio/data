@@ -1,0 +1,14 @@
+{
+    "FIRST_NAME": "Rodrigo",
+    "LAST_NAME": "Tarrio",
+    "PROFESSION": "Desarrollador web",
+    "DESCRIPTION": "Si lo puedes imaginar, lo puedes programar.",
+    "PHONE": "+584268925431",
+    "EMAIL": "rodrigotarrio2@gmail.com",
+    "ADDRESS": "Venezuela, Estado Bolívar",
+    "AGE": 27,
+    "NETWORKS":{
+        "FACEBOOK": "https://www.facebook.com/R.Tarrio",
+        "TWITTER": "https://twitter.com/tarrio_rodrigo"
+    }
+}
